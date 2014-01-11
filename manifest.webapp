@@ -1,0 +1,13 @@
+{
+  "version": "2.0",
+  "name": "Tic Tac Toe",
+  "description": "Play Tic Tac Toe on your mobile now ..",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img.png"
+  },
+  "developer": {
+    "name": "Ram Dayal Vaishnav",
+    "url": "http://gurumukhi.wordpress.com"
+  }
+}
